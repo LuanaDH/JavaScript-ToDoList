@@ -1,0 +1,32 @@
+.tarefa {
+    border: 1px solid #404040;
+    border-radius: 20px;
+    padding: 30px;
+    display: flex;
+    min-width: 400px;
+}
+
+.icon {
+    width: 50px;
+}
+
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 10vh;
+}
+
+.cxInput{ 
+    margin-left: 290px;
+    border-radius: 10px;
+}
+
+.icon:active{
+    box-shadow: 0 3px 0 #00823F;
+}
+
+#botaoMais{
+    bottom: 10px;
+}
+
